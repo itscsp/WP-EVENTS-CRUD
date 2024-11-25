@@ -14,3 +14,4 @@
 define('WP_EVENT_CRUD_VERSION', '0.1');
 define('WP_EVENT_CRUD_DIR', plugin_dir_path(__FILE__));
 define('WP_EVENT_CRUD_URL', plugin_dir_url(__FILE__));
+
