@@ -10,7 +10,7 @@ A Events CRUD Plugin, Admin can create, read, update and delete events.
 - Customizable settings
 
 ## Installation
-1. Upload the plugin files to the `/wp-content/plugins/events-manager` directory
+1. Upload the plugin files to the `/wp-content/plugins/wp-events-crud` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 
